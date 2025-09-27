@@ -6,4 +6,10 @@ JSON dosyalarını düzenleyen basit CLI aracı
 2. Şu komutu çalıştır:
    ```bash
    python app.py ornek.json cikti.json
+   {"ad": "Ali","yas":20}
+{
+  "ad": "Ali",
+  "yas": 20
+}
+
 
